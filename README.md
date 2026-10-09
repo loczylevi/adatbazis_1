@@ -11,6 +11,7 @@ northwind database for mysql github
 ```
 
 A találatok közül nyisd meg az első GitHub-hivatkozást!
+https://github.com/busynovadad/northwind-MySQL
 
 ## 2. A repository letöltése
 
