@@ -47,6 +47,4 @@ Az importálás befejezése után ellenőrizd, hogy a `northwind` adatbázis meg
 
 Ha minden sikeresen lefutott, a Northwind-adatbázis készen áll az SQL-lekérdezések gyakorlására!
 
----
 
-**Megjegyzés:** A második fájl neve a leírás alapján `northwind-data.sql` lehet. Ellenőrizd a kicsomagolt mappában, hogy pontosan hogyan szerepel a fájlnév.
